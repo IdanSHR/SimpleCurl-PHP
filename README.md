@@ -61,3 +61,5 @@ echo $response;
 ```
 
 Feel free to explore the function and adapt it to your specific use cases.
+
+<a href="https://www.buymeacoffee.com/idanshr" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="buy me a coffee" width="200px"/></a>
